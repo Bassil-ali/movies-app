@@ -33,6 +33,7 @@ dependencies:
   get_storage: any
   dio: any
   transparent_image: any
+  firebase_messaging: any
 
 
   # The following adds the Cupertino Icons font to your application.
